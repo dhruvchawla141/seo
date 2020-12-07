@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap');
+
+body{
+    background-image: linear-gradient(rgba(255,255,255,.7), rgba(255,255,255,.7)), url("/images/seo.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin:0px;
+    font-family: 'Comic Neue', cursive;
+    /* background-color: #E5E7EB; */
+    /* overflow: hidden; */
+}
+.head
+{
+    padding: 0.4rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+h1
+{
+    font-size: xx-large;
+}
+
+/* table */
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+.tables
+{
+    /* background-color:#93C5FD;
+    border:solid#93C5FD;  */
+    border-width: 1rem;
+}
+
+textarea{
+    
+    /* border: 3px solid yellow; */
+    background-color: #ffffff00;
+    height: 600px;
+    width: 328px;
+    padding-top: 1rem;
+}
+#start {
+    background-color: black;
+    color: white;
+    padding: 0.6rem 1.5rem;
+    font-size: large;
+    margin: 1rem 2rem;
+    
+}
+#output-box
+{
+    /* border: 3px solid yellow; */
+    background-color: #ffffff00;
+    padding-top: 1rem;
+    margin: auto;
+    height: 600px;
+    width: 328px;
+    max-width: 600px;
+}
+.makecenter
+{
+    max-width: 600px;
+    margin: auto;
+    
+}
+
+/* footer */
+.footers
+{
+    text-align: center;
+    color: white;
+    margin-top: 1.5rem;
+    padding: 0.7rem 0rem;
+    background-color: black ;
+}
